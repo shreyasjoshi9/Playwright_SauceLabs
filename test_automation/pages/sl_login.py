@@ -1,4 +1,3 @@
-#from test_automation.pages.base_page import BasePage
 import allure
 from test_automation.pages.base_page import BasePage
 
