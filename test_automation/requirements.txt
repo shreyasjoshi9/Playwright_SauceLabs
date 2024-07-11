@@ -1,0 +1,6 @@
+allure-pytest==2.13.5
+allure-python-commons==2.13.5
+pytest==6.2.5
+greenlet==3.0.3
+playwright==1.45.0
+pytest-playwright==0.5.1
