@@ -28,13 +28,6 @@ pipeline {
                 }
             }
         }
-        stage('Check Python Version') {
-            steps {
-                script {
-                    bat "call venv\\Scripts\\activate && python --version"
-                }
-            }
-        }
         stage('Run Tests') {
             steps {
                 script {

@@ -4,7 +4,6 @@ import pytest
 import allure
 import os
 import random
-
 import string
 
 
