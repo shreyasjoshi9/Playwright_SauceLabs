@@ -76,5 +76,4 @@ Allure - Test reporting tool
 Shreyas Joshi
 
 **License:**
-
-This project is licensed under the TableCheck, Japan.
+NA
